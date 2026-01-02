@@ -50,6 +50,6 @@ Building interactive, user-friendly web interfaces
 
 👩‍💻 Author
 
-Name: Nikita Bapu Borse
+Name: Pawan Sunil Wadile 
 Internship: SkillCraft Technology – Web Development Internship
 Task: Task 2 – Stopwatch using HTML, CSS & JavaScript
